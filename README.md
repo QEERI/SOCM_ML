@@ -1,6 +1,14 @@
 # SOCM_ML
 Sulphur Oxidative Coupling of Methane process development and its modelling via Machine Learning
 
+@authors: G. Scabbia, A. Abotaleb, A. Sinopoli
+
+        Qatar Environment and Energy Research Institute (QEERI), 
+        Hamad Bin Khalifa University (HBKU), Qatar Foundation, 
+        P.O. Box 34110, Doha, Qatar
+        
+        Corresponding authors: asinopoli@hbku.edu.qa
+
 *** File Description
 1. data_prep.py:              script for preparing the data for further processing and modelling. 
 2. model_tuning.py:           script for tuning the hyperparameter of the ANN (optional)
