@@ -18,7 +18,7 @@ Created on Sun Apr  3 13:01:23 2022
                    1. Load the data
                    2. Filter the data within the real operating conditions
                    3. Design the model
-                   4. Train the model
+                   4. Train the model♠
                    5. Test ANN as interpolation tool with 100 points
                    6. check the effect of the number of points in the interpolation accuracy 
 

@@ -13,7 +13,8 @@ Created on Sun Apr  3 12:03:19 2022
 @project-title: Sulphur Oxidative Coupling of Methane process development 
                 and its modelling via Machine Learning
     
-@file description: script for testing the model performance
+@file description: script for testing the training size effect of model 
+                      performance and plot the results
                    1. Load the data
                    2. Set the model and testing parameters
                    3. Test the training set size effect on the model performance
